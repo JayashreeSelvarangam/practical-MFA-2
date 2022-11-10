@@ -1,0 +1,118 @@
+*
+{
+	text-decoration:none;
+}
+body{
+	
+	font-family: 'Aclonica', sans-serif;
+}
+header nav ul {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	right:10px;
+	align-content:space-around;
+	align-content:center;
+	margin-top:0px;
+	margin-left:100px;
+	padding:10px 10px 10px 10px;
+}
+
+header nav ul li {
+	list-style:none;
+	margin-left:100px;
+	justify-content:space-between;
+	float:left;
+}
+header nav ul li a
+{
+	color:black;
+	font-weight:bolder;
+}
+ nav a:hover{
+	 
+	
+	color:brown;
+}
+.logo_W{
+   margin-top:10px;
+   margin-bottom:10px;
+   max-height:40px;
+   max-width:30px;
+   
+}
+.logo_li{
+	display:flex;
+	padding:10px;
+	margin:20px 10px 20px 10px;
+
+	
+}
+.puzzle
+{
+ width:30px;
+}
+	
+
+.bright{
+	display:flex;
+	flex-direction:row;
+	margin-top:20px;
+	margin-bottom:20px;
+	justify-content:space-between;
+}
+ .future{
+	
+	flex-wrap:wrap;
+	flex-direction:row;
+	font-family:Inter;
+	font-size:32px;
+	font-weight:bold;
+	text-align:left;
+	overflow:auto;
+	max-height:300px;
+	max-width:250px;
+	
+	
+}
+.dive
+{
+	width:40ch;
+	font-size:15px;
+	margin-bottom:50px;
+	
+}
+	
+
+.evolution
+{
+	font-size:18px;
+	margin-top: 55px;
+	max-width:250px;
+	max-height:20px;
+	margin-bottom:20px;
+	display:inline-block;
+	margin-right:800px;
+}
+div button{
+	background-color:maroon;
+	color:white;
+	width:142px;
+	height:40px;
+	margin-right:40px;
+	justify-content:center;
+}
+
+div button:hover{
+	background-color:black;
+}
+
+
+
+
+
+
+
+	
+	
+	 
