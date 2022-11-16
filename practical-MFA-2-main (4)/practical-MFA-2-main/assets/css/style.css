@@ -1,0 +1,295 @@
+*
+{
+	
+	text-decoration:none;
+	font-family: 'Aclonica', sans-serif;
+}
+
+.logo-li{
+	display:flex;
+	flex-direction:row;
+	margin-top:60px;
+	margin-left:100px;
+	justify-content: space-between;
+}
+.logo_W{
+   margin-top:30px;
+   margin-bottom:50px;
+   height:40px;
+   width:30px;
+}
+.logo_li{
+	display:flex;
+}
+.nav-list{
+    display:flex;
+	flex-direction:row ;
+	flex-wrap:wrap;
+    justify-items: left;
+	float:left;
+	margin-top:60px;
+	position:relative;
+    bottom:20px;
+	right:30px;
+}
+.nav-item{
+	list-style:none;
+	list-style:none;
+	padding-left:26px;
+	margin-left:30px;
+
+}
+.nav-link{
+	text-transform:capitalize;
+	font-size:medium;
+	font-weight:none;
+}
+.nav-link:hover{
+	color:red;
+}
+.puzzle
+{
+ margin-left:100px;
+ padding-bottom:30px;
+}
+	
+
+.bright{
+	display:flex;
+	flex-direction:row;
+	padding-bottom:35px;
+	margin-left:100px;
+	justify-content:space-between;
+	margin-top:40px;
+	
+}
+ .future{
+	
+	flex-wrap:wrap;
+	flex-direction:row;
+    font-size:32px;
+	font-weight:bold;
+	text-align:left;
+	overflow:auto;
+	width:240px;
+	position:relative;
+	bottom:60px;
+	
+}
+.future h2{
+	color:hsl(240, 100%, 5%);
+}
+.evolution{
+	display:flex;
+	flex-direction:column;
+	margin-top: 30px;
+	font-size:18px;
+	margin-top: 55px;
+	max-width:250px;
+	max-height:20px;
+	margin-bottom:80px;
+	margin-right:800px;
+	position:relative;
+	
+	bottom:60px;
+    right:200px;
+	left:90px;
+}
+.dive
+{
+	width:38ch;
+	font-size:15px;
+	margin-left:30px;
+	margin-bottom: 55px;
+	position:relative;
+	bottom:20px;
+	color:hsl(236, 13%, 42%);
+}
+div button{
+	width: 200px;
+    height: 50px;
+    color: white;
+    background-color:hsl(240, 100%, 5%);
+    font-weight: bold;
+    border-radius:0px;
+	margin-left:20px;
+	padding:15px 25px 25px 10px;
+	border-color:hsl(240, 100%, 5%);
+	font-size: 18px;
+	position:relative;
+	bottom:60px;
+	left:10px;
+}
+div button:hover{
+	background-color:black;
+}
+.content{
+	display:flex;
+	flex-direction:row;
+}
+.cardcontainer{
+	width: 290px;
+	height:500px;
+	margin-right: 200px;
+	position:relative;
+	right:500px;
+	bottom:25px;
+	background-color: hsl(240, 100%, 5%);
+}
+
+	
+.heading-underline{
+	font-size:32px ;
+    font-weight: bold;
+	color:hsl(35, 77%, 62%);
+	padding-bottom: 30px;
+	position: relative;
+	left:20px;
+	top: 30px;
+}
+.article1{
+	margin-top: 40px;
+	border-bottom:1px solid white;
+	
+}
+.article-title-link1{
+	color:white;
+}
+.article-summary1{
+	color:white
+}
+
+.article2{
+	margin-top: 40px;
+	border-bottom:1px solid white;
+	
+}
+.article-title-link2{
+	color:white;
+}
+.article-summary2{
+	color:white
+}
+.article3{
+	margin-top: 40px;
+	
+}
+.article-title-link3{
+	color:white;
+}
+.article-summary3{
+	color:white
+}
+
+.article2 a:hover{
+	color:hsl(35, 77%, 62%)
+}
+.article1 a:hover{
+	color:hsl(35, 77%, 62%)
+}	
+.article3 a:hover{
+	color:hsl(35, 77%, 62%)
+}
+.thumbnails{
+	 display:flex;
+	 flex-direction:row;
+	 margin-left:100px;
+}
+.thumb1{
+	display: flex;
+	flex-direction:row;
+
+}
+.thumb2{
+	display: flex;
+	flex-direction:row;
+	margin-left:30px;
+}
+.thumb3{
+	display: flex;
+	flex-direction:row;
+	margin-left:30px;
+}
+.photo1{
+	margin-top:10px;
+	margin-bottom:20px;
+}
+.thumbcontent1{
+	
+	margin-left:20px;
+	position:relative;
+	bottom:15px;
+	width:206px;
+}
+.photo1{
+	margin-top:10px;
+	margin-bottom:200px;
+}
+.thumbcontent2{
+	
+	margin-left:50px;
+	position:relative;
+	bottom:15px;
+	width:206px;
+}
+.photo2{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.thumbcontent3{
+	
+	margin-left:50px;
+	position:relative;
+	bottom:15px;
+	width:206px;
+}
+.photo3{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.thumbno1{
+	color:gray;
+}
+.thumbno2{
+	color:gray;
+}
+	
+.thumbno3{
+	color:gray;
+}
+.thumbtitle1{
+	color: hsl(240, 100%, 5%);
+	font-weight: bold;
+}
+.thumbtitle2{
+	color:hsl(240, 100%, 5%);
+	font-weight: bold;
+}
+.thumbtitle3{
+	color: hsl(240, 100%, 5%);
+	font-weight: bold;
+}
+.thumb1 a:hover{
+    color:hsl(5, 85%, 63%);
+}
+.thumb2 a:hover{
+    color:hsl(5, 85%, 63%);
+}
+.thumb3 a:hover{
+    color:hsl(5, 85%, 63%);
+}
+.thumb-summary1{
+     font-size:16px;
+	 color:hsl(233, 8%, 79%);
+	
+}
+.thumb-summary2{
+	font-size:16px;
+     color:hsl(233, 8%, 79%);
+}
+.thumb-summary3{
+	font-size:16px;
+	 color:hsl(233, 8%, 79%);
+
+}
+
